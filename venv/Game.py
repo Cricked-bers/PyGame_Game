@@ -137,7 +137,7 @@ screen.blit(gamer, gamerPosition)
 
 # Начало цикла
 running = True
-# he
+# h
 
 while running:
     for event in pygame.event.get():
